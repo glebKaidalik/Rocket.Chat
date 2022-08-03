@@ -4989,7 +4989,7 @@
   "onboarding.page.magicLinkEmail.subtitle": "Нажмите на ссылку в электронном письме, чтобы войти в свое рабочее пространство. <1>Срок действия ссылки истечет через 30 минут.</1>",
   "onboarding.page.organizationInfoPage.title": "Дополнительные сведения...",
   "onboarding.page.organizationInfoPage.subtitle": "Это поможет нам персонализировать ваше рабочее пространство.",
-  "onboarding.form.adminInfoForm.title": "Информация об администраторе",
+  "onboarding.form.adminInfoForm.title": "Изменение работает и собирается",
   "onboarding.form.adminInfoForm.subtitle": "Это необходимо для создания профиля администратора в вашем рабочем пространстве",
   "onboarding.form.adminInfoForm.fields.fullName.label": "Полное имя",
   "onboarding.form.adminInfoForm.fields.fullName.placeholder": "Имя и фамилия",
