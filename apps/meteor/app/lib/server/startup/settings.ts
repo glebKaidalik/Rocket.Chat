@@ -1557,7 +1557,7 @@ settingsRegistry.addGroup('Layout', function () {
 		});
 		this.add(
 			'Layout_Home_Body',
-			'<p>Welcome to SQILSOFT.Chat!</p>\n<p>Links: <a title="Tools" href="https://ndc.sqilsoft.by/tools/login/" target="_blank" rel="noopener">tools</a>.</p>',
+			'<p>Welcome to SQILSOFT.Chat!</p>\n<p>Links:\n <a title="Tools" href="https://ndc.sqilsoft.by/tools/login/" target="_blank" rel="noopener">tools</a>.</p>',
 			{
 				type: 'code',
 				code: 'text/html',
